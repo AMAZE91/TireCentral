@@ -27,7 +27,7 @@
 
 ## Dependencies
 
-All dependencies are bundled in the `ThirdParty` directory to ensure stability and prevent breaking changes from API updates:
+All dependencies are bundled in the `ThirdParty` directory to ensure stability and prevent breaking changes from updates:
 
 - **Dear ImGui** - Immediate mode GUI library
 - **ImPlot** - Plotting library for ImGui
