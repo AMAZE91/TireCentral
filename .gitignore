@@ -2,6 +2,7 @@
 !ThirdParty/**
 !TireModels/
 !TireModels/**
+TireCentral/
 build/
 Build/
 out/
@@ -48,3 +49,5 @@ Makefile
 .DS_Store
 Thumbs.db
 desktop.ini
+*.vcxproj.user
+*.vcxproj.FileListAbsolute.txt

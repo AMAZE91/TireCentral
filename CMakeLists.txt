@@ -46,7 +46,7 @@ set(BACKEND_SOURCES
 add_executable (${PROJECT_NAME} 
     "TireCentral.cpp" 
     "TireCentral.h" 
-    "tinyfiledialogs.c"
+    "ThirdParty/tinyfiledialogs/tinyfiledialogs.c"
     ${IMGUI_SOURCES} 
     ${IMPLOT_SOURCES} 
     ${BACKEND_SOURCES}

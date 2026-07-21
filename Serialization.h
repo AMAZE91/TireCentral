@@ -1,6 +1,6 @@
 #pragma once
-#include "json.hpp"
-#include "tinyfiledialogs.h"
+#include "ThirdParty/json/json.hpp"
+#include "ThirdParty/tinyfiledialogs/tinyfiledialogs.h"
 #include <fstream>
 #include <iostream>
 #include "TireModels/Dugoff.h"
